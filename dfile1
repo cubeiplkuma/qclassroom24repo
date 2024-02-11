@@ -10,3 +10,6 @@ argoCD
 GoCD
 added new lines
 teamcity
+
+## wWebhooks information
+Webhooks allow interaction between web-based applications through the use of custom callbacks.
